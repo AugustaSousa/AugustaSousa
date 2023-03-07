@@ -1,16 +1,34 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D372D6&height=120&section=header"/>
 
-<!--
-**AugustaSousa/AugustaSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi! I'm Maria Augusta</h1>
+<img align="right" alt="" width="350" height="450" src="https://user-images.githubusercontent.com/103502755/223422512-03221bab-73ed-488a-a4b6-c22fed173e44.gif">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying on **Computer Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Deep Learning**
+
+- 📫 How to reach me **augustasousarios@gmail.com**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <img align="center" alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+</p>
+
+<p><img align="left" src="" alt="" /></p>
+
+
+### Studying in this moment:
+<div>
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Pytorch" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
+</div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/augusta-sousa/" target="_blank"><img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1D1381&height=120&section=footer"/>
