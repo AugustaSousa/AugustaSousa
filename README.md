@@ -3,7 +3,7 @@
 <h1 align="center">Hi! I'm Maria Augusta</h1>
 <img align="right" alt="" width="350" height="390" src="https://user-images.githubusercontent.com/103502755/223422512-03221bab-73ed-488a-a4b6-c22fed173e44.gif">
 
-- 🔭 I’m currently studying on **Computer Engineering**
+- 🔭 I’m currently studying **Computer Engineering**
 
 - 🌱 I’m currently learning **Deep Learning**
 
