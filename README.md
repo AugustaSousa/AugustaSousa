@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D372D6&height=120&section=header"/>
 
 <h1 align="center">Hi! I'm Maria Augusta</h1>
-<img align="right" alt="" width="350" height="450" src="https://user-images.githubusercontent.com/103502755/223422512-03221bab-73ed-488a-a4b6-c22fed173e44.gif">
+<img align="right" alt="" width="350" height="390" src="https://user-images.githubusercontent.com/103502755/223422512-03221bab-73ed-488a-a4b6-c22fed173e44.gif">
 
 - 🔭 I’m currently studying on **Computer Engineering**
 
