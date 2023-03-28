@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying **Computer Engineering**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **augustasousarios@gmail.com**
 
