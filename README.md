@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying **Computer Engineering**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 My current main focus **Machine Learning**
 
 - 📫 How to reach me **augustasousarios@gmail.com**
 
@@ -23,6 +23,7 @@
 <div>
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Pytorch" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
+<img align="center" alt="Pytorch" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
 </div>
 
 <h3 align="left">Connect with me:</h3>
