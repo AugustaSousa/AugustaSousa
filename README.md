@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D372D6&height=120&section=header"/>
-
 <h1 align="center">Hi! I'm Maria Augusta</h1>
 
 - 🔭 I’m currently studying **Computer Engineering**
@@ -30,5 +28,3 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/augusta-sousa/" target="_blank"><img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
 </p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1D1381&height=120&section=footer"/>
