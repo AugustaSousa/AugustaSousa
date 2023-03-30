@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Maria Augusta</h1>
 
-- 🔭 I’m currently studying **Computer Engineering**
+- 🌱 I’m currently studying **Computer Engineering**
 
-- 🌱 My current main focus **Machine Learning**
+- 🔭 My current main focus **Machine Learning**
 
 - 📫 How to reach me **augustasousarios@gmail.com**
 
