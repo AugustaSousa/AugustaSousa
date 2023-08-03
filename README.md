@@ -18,8 +18,6 @@
   <img align="center" alt="Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 </p>
 
-<p><img align="left" src="" alt="" /></p>
-
 
 ### Studying in this moment:
 <div>
