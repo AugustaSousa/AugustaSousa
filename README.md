@@ -21,7 +21,8 @@
 
 ### Studying in this moment:
 <div>
-   <img align="center" alt="OpenCV" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
+  <img align="center" alt="TensorFlow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="OpenCV" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
 </div>
 
 <h3 align="left">Connect with me:</h3>
