@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Maria Augusta</h1>
+<h1 align="center">Hi! I'm Maria Augusta </h1>
 
 - 🌱 I’m currently studying **Computer Engineering**
 
