@@ -18,8 +18,3 @@
   <img align="center" alt="C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="OpenCV" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
 </div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/augusta-sousa/" target="_blank"><img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
-</p>
