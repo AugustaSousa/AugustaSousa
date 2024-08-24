@@ -2,11 +2,6 @@
 
 - 🌱 I’m currently studying **Computer Engineering**
 
-- 🔭 My current main focus **Machine Learning**
-
-- 📫 How to reach me **augustasousarios@gmail.com**
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img align="center" alt="Pytorch" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
